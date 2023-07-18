@@ -1,2 +1,5 @@
 /.idea
-/main.py
+main.py
+*.png
+*.pptx
+paint_app.py
